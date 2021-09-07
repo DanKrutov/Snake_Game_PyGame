@@ -49,6 +49,7 @@ VERSÃO 1:
 
 -portais fixos, estilo um pacman da vida(preciso otimizar a colisão deles...);
 
+-quando perde, o jogo reseta ao invés de fechar por completo
 
 Coisas que pretendo fazer:
 -------
