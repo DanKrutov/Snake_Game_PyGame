@@ -60,3 +60,5 @@ Coisas que pretendo fazer:
 -Configurações pra customizar totalmente as regras do jogo;
 
 -Compilar o projeto;
+
+-Efeitos sonoros;
