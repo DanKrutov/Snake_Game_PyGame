@@ -15,7 +15,7 @@ CONTROLES:
 
 -setas para direção
 
--ESC para sair
+-ESC para menu
 
 
 fiquei entediado e decidi pegar esse código para analisar e entender o que cada coisa
