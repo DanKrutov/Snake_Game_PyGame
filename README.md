@@ -52,14 +52,28 @@ VERSÃO 1:
 -quando perde, o jogo reseta ao invés de fechar por completo
 
 Coisas que pretendo fazer:
+
+#UPDATE V3:
+------------
+
+-pequenas correções e otimizações consideráveis no código
+
+-fonte customizada
+
+-portais fixos verticais
+
+-sistema simples de pause
+
+-sistem de highscore com save usando livraria shelve
+
+
 -------
 
--Um sistema de high score;
+Pretendo adicionar futuramente:
+--------------------------
 
--Interface de menu e pausa;
+-Interface de menu;
 
 -Configurações pra customizar totalmente as regras do jogo;
-
--Compilar o projeto;
 
 -Efeitos sonoros;
