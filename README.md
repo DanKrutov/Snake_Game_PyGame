@@ -51,8 +51,6 @@ VERSÃO 1:
 
 -quando perde, o jogo reseta ao invés de fechar por completo
 
-Coisas que pretendo fazer:
-
 #UPDATE V3:
 ------------
 
